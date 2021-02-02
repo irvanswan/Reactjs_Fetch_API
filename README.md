@@ -2,7 +2,7 @@
 
 # Aplikasi Web yang menggunakan React js untuk menampilkan data dari API menggunakan fetch
 
-# Libray yang digunakan
+# Library yang digunakan
 1. Bootstrap untuk tampilan website
 2. React JS untuk library javascript
 
