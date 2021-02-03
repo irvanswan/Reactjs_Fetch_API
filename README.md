@@ -2,29 +2,25 @@
 
 # Aplikasi Web yang menggunakan React js untuk menampilkan data dari API menggunakan fetch
 
-# Library yang digunakan
-1. Bootstrap untuk tampilan website
-2. React JS untuk library javascript
+# Library
+1. [Bootstrap](https://getbootstrap.com/) : CSS Library
+2. [React JS](https://reactjs.org/docs/getting-started.html) : Javascript Library
 
-# Tools yang digunakan
-1. Node js
-2. Visual Code
-3. Browser
-
-# Langkah - langkah Instalasi React
-1. Menginstall Node JS
-2. Menjalankan perintah instalasi react install create react-app untuk pertama kali ingin membuat react
-3. Create-react-app (nama_project)
-4. Selesai
-
-# Langkah - langkah menjalankan aplikasi web
-1. Masuk ke directory letak folder project yang telah dibuat pada langkah-langkah no4. diatas
-2. Ubah kode pada index.js di folder src/index.js
-3. Di dalam project ini menampilkan data dari API menggunakan FETCH, dan untuk menggunakannya kita memanggil class React yang merupakan modules dari react sendiri
-4. Alamat dari API yang digunakan http://jsonplaceholder.typicode.com/photos
-5. Untuk tampilan menggunakan library bootstrap yang dipanggil dibagian header, bila react terdapat folder public yang didalamnya terdapat index.html untuk memberikan link pada header
-6. Setelah edit berhasil, jalankan aplikasi web dengan perintah npm start untuk menjalankan React
-7. Tampilan Web yang dibuat
+# Requirements
+1. [API](http://jsonplaceholder.typicode.com/photos)
+___
+# Tools
+1. Node js : For running file js without browser
+___
+# How to Install
+1. install [node js](https://nodejs.org/en/download/)
+2. Clone this repository and place to the your computer directory
+___
+# How to Running this App
+1. Open cmd or open this folder with visual code
+2. Enter directory with cd command
+3. If you at this folder type npm start for running this. And it well be :
 ![FETCH](https://user-images.githubusercontent.com/49930719/106534521-dca69780-6526-11eb-9d37-193d3dada2fa.PNG)
-8. Selesai
+___
+
 
