@@ -1,5 +1,3 @@
-# Reactjs_Fetch_API
-
 # Aplikasi Web yang menggunakan React js untuk menampilkan data dari API menggunakan fetch
 
 # Library
